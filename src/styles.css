@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color:#50394c; 
+  color:white;
+}
+h1{
+  padding:25px;
+}
+p{
+  color:#ffef96;
+}
+.flex{
+  background-color:#618685;
+  padding-top:10px;
+}
